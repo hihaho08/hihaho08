@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hihaho08
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning  JS
-- 🌘 I'm 23 years old
+- 👋 Hi, I’m Enver Burak Çelik
+- 👀 Frontend Web Development
+- 🌱 JS
+- 🌘 I'm 25 years old
 - 📫 You can reach me here =>> enverburak.celik@gmail.com
 
 <!---
