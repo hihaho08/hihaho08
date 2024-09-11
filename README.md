@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Enver Burak Çelik
-- 👀 Frontend Web Development
+- 👀  Web Design Specialist
 - 🌱 JS
 - 🌘 I'm 25 years old
 - 📫 You can reach me here =>> enverburak.celik@gmail.com
