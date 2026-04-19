@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Enver Burak Çelik
-- 👀  Web Design Specialist
+- 👀  Web Design, Software
 - 🌱 JS
-- 🌘 I'm 25 years old
+- 🌘 I'm 27 years old
 - 📫 You can reach me here =>> enverburak.celik@gmail.com
 
 <!---
